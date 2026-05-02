@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ourpersonalserver.falixsrv.me",
-    "port": 25565,
+    "ip": "mropps.aternos.me",
+    "port": 44516,
     "version": "",
     "try-creative": false
   },
